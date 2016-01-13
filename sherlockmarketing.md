@@ -12,3 +12,6 @@
 
 APP ver 1.0 功能
 SDK ver 1.0 功能
+
+abcdefg
+1234567
