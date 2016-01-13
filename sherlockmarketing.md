@@ -1,17 +1,16 @@
 #Sherlock Marketing Files
-核心内容
-1. Sherlock app：侧重点是人文／艺术／生活等
-2. Shanghai Daily app：时事新闻
+Sherlock News 产品介绍
+Sherlock News 是上海日报新媒体中心开发的新媒体聚合及传播平台。
 
-合作方式
-1. 直接app合作，system目录下
-2. App＋入口调整＋启动页面的调整
-3. SDK＋广告管理apk
-4. 单SDK（纯内容，不设计付费推广）
-5. 内容定制
+Sherlock News 以开放平台的技术形式引入各类传统媒体以及自媒体入驻，为平台提供海量优质的版权内容。同时，Sherlock News倚靠Shanghai Daily多年丰富的媒体经验对内容进行质量把关，确保平台内容质量水准。
 
-APP ver 1.0 功能
-SDK ver 1.0 功能
+所有的内容经Sherlock News平台处理后，以统一的标准向各个渠道进行传播，包括微信公众平台，微博，Facebook以及各种硬件为基础的终端渠道等。通过Sherlock强大的分发和传播能力，。。。。。。。
 
-abcdefg
-1234567
+平台内容获取和使用方式
+在Sherlock News的版权合作和授权使用的前提下，渠道或终端有以下几种内容使用的技术方式，每种使用方式会有不同的商务模式。
+App合作
+SDK＋APP
+内容定制
+
+APP介绍
+SDK介绍
